@@ -1,0 +1,5 @@
+# ignoramos las carpetas:
+local_config/
+# ignoramos los archivos:
+*.tmp
+*.env
